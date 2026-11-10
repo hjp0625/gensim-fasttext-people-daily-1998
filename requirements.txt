@@ -1,0 +1,5 @@
+gensim==4.4.0
+scikit-learn==1.5.1
+scipy==1.12.0
+numpy==1.26.4
+jieba==0.42.1

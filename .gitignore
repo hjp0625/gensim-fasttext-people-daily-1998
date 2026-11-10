@@ -1,0 +1,14 @@
+# User-provided newspaper corpus and temporary analysis files
+/work/
+*.rar
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
